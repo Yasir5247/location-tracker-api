@@ -1,7 +1,7 @@
 # REST API Example
 
 
-Base URL: [`https://locationtrace.egov.mv`].
+Base URL: [``].
 
 ## Using the REST API
 
